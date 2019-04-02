@@ -1,0 +1,59 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .cart-view {
+    display: flex;
+  }
+  
+  .cart-view-child {
+    width: 20%;
+    padding: 10px;
+    border: 1px solid #fff;
+  }
+  
+  .cart-view-Header {
+    display: flex;
+    background-color: rgb(20, 45, 112);
+    color: #fff;
+  }
+  
+  .cart-view-header-child {
+    width: 20%;
+    padding: 10px;
+  }
+  
+  .fun-button {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .static-view {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .static-view:hover {
+    color: rgb(20, 45, 112);
+    cursor: pointer;
+  }
+  
+  .addFruit {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    font-size: 20px;
+    margin: 5px;
+  }
+  
+  button {
+    font-size: 15px;
+    background-color: rgb(20, 45, 112);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
